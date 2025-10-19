@@ -4,7 +4,7 @@ Since there's no minor ticks and grids available online, I decided to create one
 ## Where to Find
 - Go to the Pythons folder in this repository
 - Choose the `Custom.py` file
-- Do whatever you want with that file
+- Do whatever you want with that file (advised in license)
 
 ## What to Understand
 As you can see, this file contains just a single function to create both of them. \
