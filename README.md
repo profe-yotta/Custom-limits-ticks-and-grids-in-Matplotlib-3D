@@ -16,7 +16,7 @@ def draw_custom_limits_ticks_grids(ax, x_min, x_max, y_min, y_max, z_min, z_max,
 .
 .
 ```
-The parameters must be assigned in order, as an example below:
+The parameters must be declared at first, as an example below:
 ```.py
 x_min, x_max, x_minor, x_major = -15, 15, 1, 5
 y_min, y_max, y_minor, y_major = -15, 15, 1, 5
@@ -29,7 +29,7 @@ Those variables represents:
 - `major` : The major ticks and/or grids
 
 ## How to Use
-After you got the function, assign those paramaters as example:
+After you got the function, assign those paramaters in order as example:
 ```.py
 x_min, x_max, x_minor, x_major = -15, 15, 1, 5
 y_min, y_max, y_minor, y_major = -15, 15, 1, 5
