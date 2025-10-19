@@ -1,8 +1,9 @@
 ### **An example**
 
 ```.py
-import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
 from matplotlib.ticker import MultipleLocator
 from mpl_toolkits.mplot3d.art3d import Line3DCollection
 
