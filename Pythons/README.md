@@ -21,3 +21,7 @@ ax.set_title('Custom minor ticks and grids')
 
 plt.show()
 ```
+<!-- 
+<img width="767" height="788" alt="image" src="https://github.com/user-attachments/assets/5db7eb7b-59ba-44f7-abb7-14c739f7e592" /> 
+-->
+![a result of the example](https://github.com/user-attachments/assets/5db7eb7b-59ba-44f7-abb7-14c739f7e592)
