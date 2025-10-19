@@ -1,7 +1,10 @@
+''' DON'T FORGET TO IMPORT NECESSARY LIBRARY
 import numpy as np
+import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-from mpl_toolkits.mplot3d.art3d import Line3DCollection
 from matplotlib.ticker import MultipleLocator
+from mpl_toolkits.mplot3d.art3d import Line3DCollection
+'''
 
 def draw_custom_limits_ticks_grids(ax, x_min, x_max, y_min, y_max, z_min, z_max,
                         x_minor, y_minor, z_minor, x_major, y_major, z_major):
