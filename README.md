@@ -1,5 +1,5 @@
 # Custom limits ticks and grids in Matplotlib-3D
-Since there's no available minor ticks and grids available online, I decided to create one.
+Since there's no minor ticks and grids available online, I decided to create one.
 
 ## Where to Find
 - Go to the Pythons folder in this repository
@@ -41,4 +41,4 @@ draw_custom_limits_ticks_grids(ax, x_min, x_max, y_min, y_max, z_min, z_max,
 However, there'll be some errors or bugs with this due to:
 - Grids sometimes won't snap to the limit, resulting in a non-symmetry lines
 - Ticks with axis limit variation, making the thickness and lengths invisible
-- Other complex problem may rise from you as a user as well 
+- Other complex problem, may arise from you as a user as well 
